@@ -2,6 +2,6 @@
 
 ![인스타그램](https://img.shields.io/badge/instagram-pink)
 
-![eun chae's GitHub stats](https://github-readme-stats.vercel.app/api?username=은채&show_icons=true&theme=radical)
+![JEC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEC&show_icons=true&theme=radical)
 
 
